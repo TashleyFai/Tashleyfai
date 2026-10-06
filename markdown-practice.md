@@ -67,9 +67,8 @@ This is ~~strikethrough text~~.
     <h1>Hello, World!</h1>
 </body>
 </html>
-### Step 3 — Commit it
+```
 
-Scroll down and use this commit message:
+## 8. Blockquote
 
-```text
-Complete Markdown practice
+> Every expert was once a beginner.
