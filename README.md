@@ -15,8 +15,8 @@ user.name=TashleyFai
 user.email=faithkips003@gmail.com
 
 ### Links
-- Live Site:- Live Site: https://TashleyFai.github.io
-- Markdown Practice: Coming soon
+- Live Site: https://TashleyFai.github.io
+- Markdown Practice: https://github.com/TashleyFai/TashleyFai/blob/main/markdown-practice.md
 
 ### Week 0 Team
 - Team Repo: Coming soon
